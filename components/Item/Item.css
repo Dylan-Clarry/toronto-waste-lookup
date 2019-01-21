@@ -1,0 +1,12 @@
+.item {
+	display: grid;
+	grid-template-columns: 2fr 3fr;
+	grid-gap: 50px;
+	text-align: left;
+	max-width: 80%;
+	margin: 0 auto;
+}
+
+.push-right {
+	padding-right: 15px;
+}

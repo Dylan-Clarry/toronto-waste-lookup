@@ -1,0 +1,29 @@
+.App {
+  font-family: 'Roboto', sans-serif;
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+	text-align: left;
+}
+
+.banner {
+  background-image: linear-gradient(to right, #235A92, #28955D);
+  color: #fff;
+  height: 125px;
+  line-height: 125px;
+  font-size: 2.5em;
+}
+
+.container {
+	max-width: 1250px;
+	margin: 0 auto;
+}
+
+.ugh-header {
+	padding-left: 125px;
+	color: #28955D;
+}
